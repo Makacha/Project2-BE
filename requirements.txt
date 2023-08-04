@@ -1,0 +1,9 @@
+fastapi==0.97.0
+pydantic==1.10.9
+SQLAlchemy==2.0.16
+uvicorn==0.22.0
+python-dotenv==0.21.1
+psycopg2==2.9.6
+alembic==1.11.1
+pyjwt==2.7.0
+contextvars==2.4
